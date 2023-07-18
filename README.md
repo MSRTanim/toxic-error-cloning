@@ -9,4 +9,4 @@ git clone https://github.com/MSRTanim/error-cloning.git
 
 cd error-cloning
 
-python error.py
+python3 error.py
