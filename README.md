@@ -1,14 +1,14 @@
-# error-cloning
+# toxic-error-cloning
 [![MasterHead](https://thumbs.gfycat.com/AmusingAntiqueEmu-size_restricted.gif)](http://www.msrtanim.xyz)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F716&width=435&lines=%F0%9F%91%8BHELLO+WORLD+I'M+TANIM+HERE%F0%9F%92%81%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F;%E2%98%A3%EF%B8%8FCEO+OF+TOXIC+CYBER+SECURITY%E2%98%A3%EF%B8%8F;%F0%9F%92%81%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8FPLEASE+FOLLOW+MY+GITHUB%F0%9F%92%96;%F0%9F%92%BBTHANKS+ALL+MY+FAMILY+MEMBERS%F0%9F%94%A5)](https://git.io/typing-svg)
 
 # Install System
 
-      rm -rf error-cloning
-      git clone https://github.com/MSRTanim/error-cloning.git
+      rm -rf toxic-error-cloning
+      git clone https://github.com/MSRTanim/toxic-error-cloning.git
 	  ls
-      cd error-cloning
+      cd toxic-error-cloning
 	  ls
       python3 error.py
 
